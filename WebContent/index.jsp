@@ -43,7 +43,6 @@
 				</c:if>
 				<ul>
 					<li><a href="javascript:void(0)">修改密码</a></li>
-					<li><a href="javascript:void(0)">个人信息</a></li>
 					<li><a href="javascript:void(0)" class="signout">退出登录</a></li>
 				</ul>
 			</div>
