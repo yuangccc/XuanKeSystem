@@ -19,3 +19,19 @@
 * 学生账号：  0001    密码：123
 
 ### 界面展示
+
+
+登录页面：
+![](https://github.com/yuangccc/XuanKeSystem/blob/master/Readme_img/login.jpg?raw=true)
+
+
+管理员页面：
+![](https://github.com/yuangccc/XuanKeSystem/blob/master/Readme_img/admin.jpg?raw=true)
+
+
+老师管理页面：
+![](https://github.com/yuangccc/XuanKeSystem/blob/master/Readme_img/teacher.jpg?raw=true)
+
+
+学生页面：
+![](https://github.com/yuangccc/XuanKeSystem/blob/master/Readme_img/student.jpg?raw=true)
