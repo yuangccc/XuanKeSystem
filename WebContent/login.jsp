@@ -115,16 +115,16 @@
 			</div>
 			<form action="login" method="post">
 				<div class="user">
-					<input type="text" class="uname" name="userName" value="0001" />
+					<input type="text" class="uname" name="userName" />
 				</div>
 				<div class="password">
-					<input type="password" class="pwd" name="password" value="123" />
+					<input type="password" class="pwd" name="password" />
 				</div>
 				<div class="s">
 					<select name="type">
 						<option value="">请选择登录类型</option>
 						<option value="0">学生</option>
-						<option selected value="1">教师</option>
+						<option value="1">教师</option>
 						<option value="2">管理员</option>
 					</select>			
 				</div>
