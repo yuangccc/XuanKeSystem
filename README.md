@@ -22,11 +22,12 @@
 
 
 登录页面：
-![](https://github.com/yuangccc/XuanKeSystem/blob/master/Readme_img/login.jpg?raw=true)
-
+<div>
+<img src="https://github.com/yuangccc/XuanKeSystem/blob/master/Readme_img/login.jpg?raw=true">
+</div>
 
 管理员页面：
-![](https://github.com/yuangccc/XuanKeSystem/blob/master/Readme_img/admin.jpg?raw=true)
+![](https://github.com/yuangccc/XuanKeSystem/blob/master/Readme_img/admin.jpg)
 
 
 老师管理页面：
